@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "DC-nodory",
+  "version": "1.0",
+  "description": "DC인사이드에서 댓글돌이의 댓글을 지워줍니다.",
+  "host_permissions": [
+    "https://gall.dcinside.com/*",
+    "https://m.dcinside.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gall.dcinside.com/mgallery/board/view/*",
+        "https://gall.dcinside.com/board/view/*",
+        "https://m.dcinside.com/board/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "16ico.png",
+    "32": "32ico.png",  
+    "48": "48ico.png",
+    "128": "128ico.png"
+  }
+}
