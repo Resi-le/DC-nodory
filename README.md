@@ -7,4 +7,4 @@
 
 ### 다운로드
 1. [Chrome (GitHub)](https://github.com/Resi-le/DC-nodory/tree/main/DC-nodoryChrome)
-2. Firefox (추후 스토어 연결 예정)
+2. [Firefox](https://addons.mozilla.org/ko/firefox/addon/dc-nodory/)
