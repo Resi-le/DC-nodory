@@ -22,13 +22,17 @@
   ],
   "icons": {
     "16": "16ico.png",
-    "32": "32ico.png",  
+    "32": "32ico.png",
     "48": "48ico.png",
     "128": "128ico.png"
   },
-    "browser_specific_settings": {
+  "browser_specific_settings": {
     "gecko": {
-      "id": "dc-nodory@fxversion.com"
+      "id": "dc-nodory@fxversion.com",
+    
+      "data_collection_permissions": {
+        "required": ["websiteContent"]
+      }
     }
   }
 }
