@@ -10,4 +10,4 @@
 2. [Firefox](https://addons.mozilla.org/ko/firefox/addon/dc-nodory/)
 
 ### 개인정보 처리방침
-[개인정보 처리방침](https://github.com/Resi-lePrivacyPolicy)
+[개인정보 처리방침](https://github.com/Resi-le/DC-nodory/tree/main/PrivacyPolicy)
