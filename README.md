@@ -6,7 +6,7 @@
 2. FireFox
 
 ### 다운로드
-1. [Chrome]([https://github.com/Resi-le/DC-nodory/tree/main/DC-nodoryChrome](https://chromewebstore.google.com/detail/dc-nodory/emkchekaebkanbojdlpdeemhbhimdimh?authuser=0&hl=ko))
+1. [Chrome](https://chromewebstore.google.com/detail/dc-nodory/emkchekaebkanbojdlpdeemhbhimdimh?authuser=0&hl=ko)
 2. [Firefox](https://addons.mozilla.org/ko/firefox/addon/dc-nodory/)
 
 ### 개인정보 처리방침
